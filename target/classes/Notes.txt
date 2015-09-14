@@ -1,0 +1,6 @@
+*** url de test du web service ***
+http://localhost:8080/cirta/rest/getHotels?name=lyes
+
+user : ben
+pass : benspassword
+
